@@ -1,0 +1,23 @@
+.cat{
+width:260px;
+height: 260px;
+margin-top: 150px;
+margin-left:500px
+}
+h1{
+    color:white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align:center;
+
+}
+p{
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    text-align: center;
+}
+.cat{
+    border: 5px solid tan;
+    border-width:1rem;
+   
+}
